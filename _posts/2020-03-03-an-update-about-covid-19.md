@@ -20,7 +20,7 @@ Furthermore, the cannot rule out the possibility that some mentors may be forced
 
 Current ticketholders will be informed via email about our updated terms shortly. In case they don't agree with the updated terms and conditions they will have 2 weeks (thus, up to March 17th, the latest) to cancel their ticket without any costs at all.
 
-We'd also like to remind everyone that we are a non-profit organization that has survived thus far thanks to the inconditional support of our community. Organizing an event like SwiftAveiro has a lot of risks, which is why we are preparing for the absolute worst case scenario.
+We'd also like to remind everyone that we are a non-profit organization that has survived thus far thanks to the unconditional support of our community. Organizing an event like SwiftAveiro has a lot of risks, which is why we are preparing for the absolute worst case scenario.
 
 Regardless of what happens, we will still be around.
 
