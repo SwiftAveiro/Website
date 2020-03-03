@@ -124,20 +124,24 @@ h4 {
 
 body[data-section="page"] nav,
 body[data-section="blog"] nav,
-body[data-section="page"] nav {
+body[data-section="post"] nav {
   background: #001b7e;
 }
 
 body[data-section="page"] nav a,
 body[data-section="blog"] nav a,
-body[data-section="page"] nav a {
+body[data-section="post"] nav a {
   color: #fff;
 }
 
-body[data-section="page"] .sticky-wrapper {
+body[data-section="page"] .sticky-wrapper,
+body[data-section="blog"] .sticky-wrapper,
+body[data-section="post"] .sticky-wrapper {
   padding-top: 0;
 }
-body[data-section="page"] main.container {
+body[data-section="page"] main.container,
+body[data-section="blog"] main.container,
+body[data-section="post"] main.container {
   padding-top: 7rem;
 }
 
