@@ -122,12 +122,34 @@ h4 {
   }
 }
 
+body[data-section="page"] nav,
+body[data-section="blog"] nav,
 body[data-section="page"] nav {
   background: #001b7e;
 }
+
+body[data-section="page"] nav a,
+body[data-section="blog"] nav a,
+body[data-section="page"] nav a {
+  color: #fff;
+}
+
 body[data-section="page"] .sticky-wrapper {
   padding-top: 0;
 }
 body[data-section="page"] main.container {
   padding-top: 7rem;
+}
+
+.blog-content p {
+  margin-bottom: 20px;
+  font-size: 21px;
+  font-family: barlow;
+  color: #333;
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+#mentors li {
+  list-style: none;
 }

@@ -7,7 +7,7 @@ intro_paragraph: ""
 categories: misc
 ---
 
-We're pleased to announce that our 2019 edition will once again be held in Hotel Meliá Ria on 20th - 21st June, 2019.
+We're pleased to announce that our 2020 edition will once again be held in Hotel Meliá Ria on 25th - 27th June, 2020
 
 Our enthusiastic mentors will perform a 2 hours hands-on workshop in different areas. Each day has 6 slots with parallel sessions running at the same time in different rooms. Attendees will be able to join only 3 of them so choose wisely 😀
 

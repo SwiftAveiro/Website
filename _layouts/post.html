@@ -1,26 +1,22 @@
 ---
 layout: default
 ---
+
 {% assign author = site.data.authors[page.author] %}
 
 <div class="container">
-
   <h2>{{ page.title }}</h2>
 
   <time datetime="{{ page.date }}">
     <small>
       <strong>{{ page.date | date_to_string }}</strong>
-      {% if author %}
-        by {{ author.name }}
-      {% endif %}
+      {% if author %} by {{ author.name }} {% endif %}
     </small>
   </time>
 
-  {% include page-intro.html %}
+  {% include page-intro.html %} {{ content }}
 
-  {{ content }}
-
-  <nav aria-label="Adjacent Posts">
+  <!-- <nav aria-label="Adjacent Posts">
     <ul>
       {% if page.previous.url %}
         <li>
@@ -33,6 +29,5 @@ layout: default
         </li>
       {% endif %}
     </ul>
-  </nav>
-
+  </nav> -->
 </div>
