@@ -124,7 +124,13 @@ h4 {
 
 body[data-section="page"] nav {
   background: #001b7e;
+  color: #fff;
 }
+
+body[data-section="page"] a {
+  color: #fff;
+}
+
 body[data-section="page"] .sticky-wrapper {
   padding-top: 0;
 }
