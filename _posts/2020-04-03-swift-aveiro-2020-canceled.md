@@ -18,4 +18,4 @@ procedure via email in the following days.
 
 Thank you for understanding.
 
-the SwiftAveiro team
+The SwiftAveiro team
